@@ -1,5 +1,6 @@
 # SIColetaLixo
-# Bruno Bergamasco
-# Enzo Manzo
-# Bryan Roncon
-CHECKPOINT ENGENHARIA DE SOFTWARE
+# CHECKPOINT ENGENHARIA DE SOFTWARE
+
+Enzo Manzo
+Bryan Roncon
+Bruno Bergamasco
